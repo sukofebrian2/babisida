@@ -1,0 +1,27 @@
+{
+  "name": "babisida",
+  "version": "1.1.0",
+  "description": "Learn About Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukofebrian2/babisida.git"
+  },
+  "keywords": [
+    "learn",
+    "npm",
+    "exploration"
+  ],
+  "author": "sukofebrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukofebrian2/babisida/issues"
+  },
+  "homepage": "https://github.com/sukofebrian2/babisida#readme",
+  "devDependencies": {
+    "chai": "^5.1.0"
+  }
+}
